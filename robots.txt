@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ozangahri.selfishluck.top/sitemap.xml
